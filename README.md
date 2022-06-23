@@ -1,6 +1,6 @@
 # precipitation sensitivity
 
-This repository hosts the main code for generating the results for "Increasing sensitivity of dryland ecosystems to precipitation due to rising atmospheric CO2"
+This repository hosts the main code for generating the results for "Increasing sensitivity of dryland vegetation greenness to precipitation due to rising atmospheric CO2"
 
 There are four folders under this repository
 1. analysis presents the minimalistic model
